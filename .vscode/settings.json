@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "minxc9",
+        "projectKey": "minxc9_static_analysis_lab"
+    }
+}
